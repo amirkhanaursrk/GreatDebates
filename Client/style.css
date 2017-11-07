@@ -1,0 +1,30 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.card{
+  margin-left: 30px;
+  margin-top: 30px;
+  box-shadow: 0 0 30px 0 rgba(0,0,0,0.2);
+  width: 13%;
+  display: inline-block;
+  vertical-align: top;
+}
+.container{
+  padding: 2px 16px;
+}
+.divider{
+  background-color: #936CF1;
+  box-shadow: 0 0 30px 0 rgba(0,0,0,0.4);
+  height: 2em;
+  padding: 2px 16px;
+  color: white;
+}
+#sundy{
+  padding: 0 0 0 0;
+}
+/* our color themes:
+A1856F    Brownish
+F5D8E1    Pinkish
+DE97C6    Dark Pinkish
+5091E1    Blueish
+936CF1    Purpleish */
